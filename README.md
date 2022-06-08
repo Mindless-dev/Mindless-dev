@@ -1,23 +1,28 @@
 # Hi there 👋
 
-
+<!--
+ 
+About me ? 
+-->
 Newly educated Junior Frontend developer
+- Former Ndt Inspector 
 
 
 ## Currently working on
 
 - Becoming proficient at ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - Imporving my react knowledge
-- Improving my design ability
+- Improving my design / UI/UX ability
 
 
 ## What i plan to learn in the future
 
-- Back-end Development
-- phyton
-- Vue
+- Vue Js 
+- Svelte
+- Phyton
+- Node js
 
-## Tech skills
+## Technical skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,7 +36,9 @@ Newly educated Junior Frontend developer
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
-  
+# Portfolio
+
+[Portfolio Website](https://holmenfrontend.no/portfolio/)
   <!--
 **Mindless-dev/Mindless-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
