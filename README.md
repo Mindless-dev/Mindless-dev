@@ -46,5 +46,5 @@ I also have a Advanced Craft Certificate as a NDT-Inspector.
 
 ## Socials
 
-[Linkdin](https://www.linkedin.com/in/kenny-holmen-b853b4a1)
+[LinkdIn](https://www.linkedin.com/in/kenny-holmen-b853b4a1)
 
