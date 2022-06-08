@@ -13,7 +13,7 @@ I also have a Advanced Craft Certificate as a NDT-Inspector.
 
 ## Currently working on
 
-- Improving my portfolio
+- Improving my portfolio projects
 - Becoming more proficient with Typescript
 - Imporving my react knowledge
 - Improving my design / UI/UX ability
