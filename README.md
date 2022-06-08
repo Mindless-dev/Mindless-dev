@@ -1,26 +1,27 @@
 # Hi there 👋
 
-<!--
- 
-About me ? 
--->
-Newly educated Junior Frontend developer
-- Former Ndt Inspector 
+## About me 
+
+I am a Norwegian Junior Frontend developer. I started on my track to become a frontend developer around two years ago. 
+Currently i'm finishing up my vocational degree in front end development at Noroff School of Techonolgy and Digital Media. 
+
+### Before Coding
+
+Before coding i got a Bachelors Degree in Comparative Politics from the University of Bergen.
+I also have a Advanced Craft Certificate as a NDT-Inspector.
 
 
 ## Currently working on
 
-- Becoming proficient at ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- Becoming more proficient with Typescript
 - Imporving my react knowledge
 - Improving my design / UI/UX ability
-
 
 ## What i plan to learn in the future
 
 - Vue Js 
 - Svelte
-- Phyton
-- Node js
+- Backend Development
 
 ## Technical skills
 
@@ -36,20 +37,12 @@ Newly educated Junior Frontend developer
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
-# Portfolio
+## Portfolio
 
 [Portfolio Website](https://holmenfrontend.no/portfolio/)
-  <!--
-**Mindless-dev/Mindless-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials
+
+[Linkdin](https://www.linkedin.com/in/kenny-holmen-b853b4a1)
+
