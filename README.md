@@ -1,24 +1,22 @@
 # Hi there 👋
 
 ## About me 
-
-I am a Norwegian Junior Frontend developer. I started on my track to become a frontend developer around two years ago. 
-Currently i'm finishing up my vocational degree in front end development at Noroff School of Techonolgy and Digital Media. 
+I am a Norwegian Junior Frontend developer. I started on my track to becoming a front-end developer around two years ago. 
+Currently, I'm finishing up my vocational degree in front-end development at Noroff School of Technology and Digital Media. 
 
 ### Before Coding
 
-Before coding i got a Bachelors Degree in Comparative Politics from the University of Bergen.
-I also have a Advanced Craft Certificate as a NDT-Inspector.
-
+Before coding, I got a bachelor's degree in Comparative Politics from the University of Bergen.
+I also have an Advanced Craft Certificate as an NDT-Inspector.
 
 ## Currently working on
 
 - Improving my portfolio projects
 - Becoming more proficient with Typescript
-- Imporving my react knowledge
+- Improving my react knowledge
 - Improving my design / UI/UX ability
 
-## What i plan to learn in the future
+## What I plan to learn in the future
 
 - Vue Js 
 - Svelte
