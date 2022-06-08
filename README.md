@@ -14,7 +14,7 @@ I also have an Advanced Craft Certificate as an NDT-Inspector.
 - Improving my portfolio projects
 - Becoming more proficient with Typescript
 - Improving my react knowledge
-- Improving my design / UI/UX ability
+- Improving my design / UI/UX skills
 
 ## What I plan to learn in the future
 
