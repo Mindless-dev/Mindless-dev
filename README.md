@@ -18,7 +18,7 @@ Newly educated Junior Frontend developer
 - Vue
 
 ## Tech skills
-<p align-center>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -30,7 +30,7 @@ Newly educated Junior Frontend developer
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-</p>
+
   
   <!--
 **Mindless-dev/Mindless-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
