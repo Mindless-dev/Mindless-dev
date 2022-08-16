@@ -17,8 +17,8 @@ I also have an Advanced Craft Certificate as an NDT-Inspector.
 - Improving my design / UI/UX skills
 
 ## What I plan to learn in the future
- -Python
- -Node.js
+ - Python
+ - Node.js
  - Backend Development
  - Vue Js 
  - Svelte
