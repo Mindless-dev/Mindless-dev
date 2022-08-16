@@ -17,10 +17,12 @@ I also have an Advanced Craft Certificate as an NDT-Inspector.
 - Improving my design / UI/UX skills
 
 ## What I plan to learn in the future
-
+-Python
+-Node.js
+- Backend Development
 - Vue Js 
 - Svelte
-- Backend Development
+
 
 ## Technical skills
 
@@ -30,6 +32,7 @@ I also have an Advanced Craft Certificate as an NDT-Inspector.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 <br/>
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
